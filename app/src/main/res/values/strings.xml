@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PADC-Proof-of-concept</string>
+    <string name="action_settings">Settings</string>
+    <string name="screen_title_movie">Movie Shelf</string>
+    <string name="movie_now_on">NOW ON CINEMA</string>
+    <string name="movie_up_coming">UPCOMING</string>
+    <string name="movie_most_popular">MOST POPULAR</string>
+</resources>
